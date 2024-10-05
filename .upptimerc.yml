@@ -10,7 +10,7 @@ sites:
 status-website:
   baseUrl: /Upptime
   name: Movie Website Status
-  introTitle: "**Find all Movie resources here**"
+  introTitle: "**Find the status of all movie resources here**"
 
 workflowSchedule:
   uptime: "*/60 * * *  *"
