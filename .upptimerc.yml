@@ -13,7 +13,7 @@ status-website:
   introTitle: "**Find all Movie resources here**"
 
 workflowSchedule:
-  uptime: "*/360 * * *  *"
+  uptime: "*/60 * * *  *"
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
   staticSite: "0 1 * * *"
