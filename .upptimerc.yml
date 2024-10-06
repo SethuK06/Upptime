@@ -26,5 +26,5 @@ workflowSchedule:
   responseTime: "0 * * * *"
   staticSite: "0 * * * *"
   summary: "0 * * * *"
-  updateTemplate: "0 * * * *"
-  updates: "0 * * * *"
+  updateTemplate: "/360 * * * *"
+  updates: "/360 * * * *"
