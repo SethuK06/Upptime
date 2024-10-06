@@ -11,13 +11,13 @@ assignees:
   - SethuK-ND
 
 status-website:
-  themeUrl: https://raw.githubusercontent.com/sethuk-nd/Upptime/master/assets/my-custom-theme.css
+  themeUrl: dark
   baseUrl: /Upptime
   name: Movie Website Status
   introTitle: "**Find the status of all movie resources here**"
   navbar:
     - title: Status
-      href: /
+      href: https://$OWNER.github.io/$REPO/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 workflowSchedule:
