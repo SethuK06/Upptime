@@ -11,7 +11,7 @@ assignees:
   - SethuK-ND
 
 status-website:
-  themeUrl: https://$OWNER.github.io/$REPO/assets/my-custom-theme.css
+  themeUrl: https://$OWNER.github.io/$REPO/blob/master/assets/my-custom-theme.css
   baseUrl: /Upptime
   name: Movie Website Status
   introTitle: "**Find the status of all movie resources here**"
