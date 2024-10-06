@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/1tamilmv.tf.ico",
     "slug": "tamilmv",
     "status": "down",
-    "uptime": "78.61%",
-    "uptimeDay": "78.61%",
-    "uptimeWeek": "78.61%",
-    "uptimeMonth": "78.61%",
-    "uptimeYear": "78.61%",
-    "time": 2139,
-    "timeDay": 2139,
-    "timeWeek": 2139,
-    "timeMonth": 2139,
-    "timeYear": 2139,
+    "uptime": "77.85%",
+    "uptimeDay": "77.85%",
+    "uptimeWeek": "77.85%",
+    "uptimeMonth": "77.85%",
+    "uptimeYear": "77.85%",
+    "time": 1977,
+    "timeDay": 1977,
+    "timeWeek": 1977,
+    "timeMonth": 1977,
+    "timeYear": 1977,
     "dailyMinutesDown": {
-      "2024-10-06": 214
+      "2024-10-06": 224
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 770,
-    "timeWeek": 770,
-    "timeMonth": 770,
-    "timeYear": 770,
+    "time": 763,
+    "timeDay": 763,
+    "timeWeek": 763,
+    "timeMonth": 763,
+    "timeYear": 763,
     "dailyMinutesDown": {}
   }
 ]
