@@ -11,12 +11,18 @@ status-website:
   baseUrl: /Upptime
   name: Movie Website Status
   introTitle: "**Find the status of all movie resources here**"
-
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://aakritsubedi9.com.np 
 workflowSchedule:
-  uptime: "*/60 * * *  *"
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *" 
+  uptime: "0 * * * *"
+  graphs: "0 * * * *"
+  responseTime: "0 * * * *"
+  staticSite: "0 * * * *"
+  summary: "0 * * * *"
+  updateTemplate: "0 * * * *"
+  updates: "0 * * * *"
