@@ -7,7 +7,11 @@ sites:
   - name: Tamilblasters
     url: https://1tamilblasters.dad
 
+assignees:
+  - SethuK-ND
+
 status-website:
+  themeUrl: https://example.com/assets/my-custom-theme.css
   baseUrl: /Upptime
   name: Movie Website Status
   introTitle: "**Find the status of all movie resources here**"
@@ -16,8 +20,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: Website
-      href: https://aakritsubedi9.com.np 
 workflowSchedule:
   uptime: "0 * * * *"
   graphs: "0 * * * *"
