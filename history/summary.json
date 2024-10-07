@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.1tamilmv.tf.ico",
     "slug": "tamilmv",
     "status": "up",
-    "uptime": "88.12%",
+    "uptime": "88.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.12%",
-    "uptimeMonth": "88.12%",
-    "uptimeYear": "88.12%",
-    "time": 1135,
-    "timeDay": 827,
-    "timeWeek": 1135,
-    "timeMonth": 1135,
-    "timeYear": 1135,
+    "uptimeWeek": "88.17%",
+    "uptimeMonth": "88.17%",
+    "uptimeYear": "88.17%",
+    "time": 1145,
+    "timeDay": 829,
+    "timeWeek": 1145,
+    "timeMonth": 1145,
+    "timeYear": 1145,
     "dailyMinutesDown": {
       "2024-10-06": 354
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 795,
-    "timeDay": 800,
-    "timeWeek": 795,
-    "timeMonth": 795,
-    "timeYear": 795,
+    "time": 797,
+    "timeDay": 805,
+    "timeWeek": 797,
+    "timeMonth": 797,
+    "timeYear": 797,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/btdig.com.ico",
     "slug": "bt-digg",
     "status": "down",
-    "uptime": "10.11%",
-    "uptimeDay": "10.11%",
-    "uptimeWeek": "10.11%",
-    "uptimeMonth": "10.11%",
-    "uptimeYear": "10.11%",
-    "time": 1210,
-    "timeDay": 1210,
-    "timeWeek": 1210,
-    "timeMonth": 1210,
-    "timeYear": 1210,
+    "uptime": "0.21%",
+    "uptimeDay": "0.21%",
+    "uptimeWeek": "0.21%",
+    "uptimeMonth": "0.21%",
+    "uptimeYear": "0.21%",
+    "time": 1004,
+    "timeDay": 1004,
+    "timeWeek": 1004,
+    "timeMonth": 1004,
+    "timeYear": 1004,
     "dailyMinutesDown": {
-      "2024-10-07": 0
+      "2024-10-07": 14
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ico",
     "slug": "bt-digg-onion",
     "status": "down",
-    "uptime": "3.35%",
-    "uptimeDay": "3.35%",
-    "uptimeWeek": "3.35%",
-    "uptimeMonth": "3.35%",
-    "uptimeYear": "3.35%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-07": 0
+      "2024-10-07": 14
     }
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2008,
-    "timeDay": 2008,
-    "timeWeek": 2008,
-    "timeMonth": 2008,
-    "timeYear": 2008,
+    "time": 1681,
+    "timeDay": 1681,
+    "timeWeek": 1681,
+    "timeMonth": 1681,
+    "timeYear": 1681,
     "dailyMinutesDown": {}
   }
 ]
