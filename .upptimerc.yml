@@ -21,6 +21,9 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+i18n:
+  footer: false
+
 workflowSchedule:
   uptime: "0 * * * *"
   graphs: "0 * * * *"
