@@ -24,11 +24,6 @@ status-website:
 i18n:
   footer: false
 
-# metadata
-skipdescriptionupdate: true
-skipTopicsUpdate: true
-skipHomepageUpdate: true
-
 workflowSchedule:
   uptime: "0 * * * *"
   graphs: "0 * * * *"
