@@ -3,7 +3,7 @@ repo: Upptime
 
 sites:
   - name: Tamilmv
-    url: https://1tamilmv.tf
+    url: https://www.1tamilmv.tf/
   - name: Tamilblasters
     url: https://1tamilblasters.dad
 
@@ -11,7 +11,7 @@ assignees:
   - SethuK-ND
 
 status-website:
-  theme: night
+  theme: ocean
   baseUrl: /Upptime
   name: Movie Website Status
   introTitle: "**Find the status of all movie resources here**"
