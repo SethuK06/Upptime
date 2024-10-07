@@ -11,6 +11,7 @@ assignees:
   - SethuK-ND
 
 status-website:
+  theme: dark
   baseUrl: /Upptime
   name: Movie Website Status
   introTitle: "**Find the status of all movie resources here**"
