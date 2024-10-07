@@ -16,6 +16,7 @@ status-website:
   baseUrl: /Upptime
   name: Movie Website Status
   introTitle: "**Find the status of all movie resources here**"
+  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/$OWNER/$REPO). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: https://$OWNER.github.io/$REPO/
