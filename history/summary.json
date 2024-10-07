@@ -1,22 +1,22 @@
 [
   {
     "name": "Tamilmv",
-    "url": "https://1tamilmv.tf",
-    "icon": "https://icons.duckduckgo.com/ip3/1tamilmv.tf.ico",
+    "url": "https://www.1tamilmv.tf/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.1tamilmv.tf.ico",
     "slug": "tamilmv",
-    "status": "down",
-    "uptime": "85.34%",
-    "uptimeDay": "88.71%",
-    "uptimeWeek": "85.34%",
-    "uptimeMonth": "85.34%",
-    "uptimeYear": "85.34%",
-    "time": 1432,
-    "timeDay": 1151,
-    "timeWeek": 1432,
-    "timeMonth": 1432,
-    "timeYear": 1432,
+    "status": "up",
+    "uptime": "85.19%",
+    "uptimeDay": "88.72%",
+    "uptimeWeek": "85.19%",
+    "uptimeMonth": "85.19%",
+    "uptimeYear": "85.19%",
+    "time": 1413,
+    "timeDay": 1135,
+    "timeWeek": 1413,
+    "timeMonth": 1413,
+    "timeYear": 1413,
     "dailyMinutesDown": {
-      "2024-10-07": 0,
+      "2024-10-07": 5,
       "2024-10-06": 354
     }
   },
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 794,
-    "timeDay": 791,
-    "timeWeek": 794,
-    "timeMonth": 794,
-    "timeYear": 794,
+    "time": 791,
+    "timeDay": 788,
+    "timeWeek": 791,
+    "timeMonth": 791,
+    "timeYear": 791,
     "dailyMinutesDown": {}
   }
 ]
