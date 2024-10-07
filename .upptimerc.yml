@@ -11,7 +11,8 @@ assignees:
   - SethuK-ND
 
 status-website:
-  theme: ocean
+  theme: dark
+  logoUrl: https://upptime.js.org/img/icon.svg
   baseUrl: /Upptime
   name: Movie Website Status
   introTitle: "**Find the status of all movie resources here**"
