@@ -21,8 +21,10 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-i18n:
-  footer: false
+# metadata
+skipdescriptionupdate: true
+# skipTopicsUpdate: true
+# skipHomepageUpdate: true
 
 workflowSchedule:
   uptime: "0 * * * *"
