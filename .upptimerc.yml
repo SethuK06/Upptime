@@ -24,6 +24,9 @@ status-website:
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  scripts:
+      - src: url.js
+        async: true
 
 workflowSchedule:
   uptime: "0 * * * *"
