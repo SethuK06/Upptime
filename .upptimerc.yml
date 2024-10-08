@@ -6,10 +6,10 @@ sites:
     url: https://www.1tamilmv.tf/
   - name: Tamilblasters
     url: https://1tamilblasters.dad
-  - name: BTDigg
+  - name: BTDigg [Main]
+    url: https://btdig.com/index.htm
+  - name: BTDigg [Testing]
     url: https://btdig.com/
-  - name: BTDigg[Onion]
-    url: http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/
   - name: TGX
     url: https://torrentgalaxy.to/
 
