@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/1tamilblasters.dad.ico",
     "slug": "tbl",
     "status": "up",
-    "uptime": "97.80%",
-    "uptimeDay": "96.25%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "97.80%",
-    "uptimeYear": "97.80%",
+    "uptime": "97.71%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "97.71%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "97.71%",
     "time": 795,
     "timeDay": 773,
     "timeWeek": 795,
     "timeMonth": 795,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2024-10-10": 54
+      "2024-10-10": 56
     }
   },
   {
@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/btdig.com.ico",
     "slug": "bt-digg",
     "status": "up",
-    "uptime": "62.02%",
+    "uptime": "62.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "62.02%",
-    "uptimeMonth": "62.02%",
-    "uptimeYear": "62.02%",
+    "uptimeWeek": "62.05%",
+    "uptimeMonth": "62.05%",
+    "uptimeYear": "62.05%",
     "time": 937,
     "timeDay": 954,
     "timeWeek": 937,
@@ -64,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/torrentgalaxy.to.ico",
     "slug": "tgx",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 2197,
     "timeDay": 2555,
     "timeWeek": 2197,
     "timeMonth": 2197,
     "timeYear": 2197,
     "dailyMinutesDown": {
-      "2024-10-10": 0
+      "2024-10-10": 2
     }
   }
 ]
