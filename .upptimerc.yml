@@ -31,6 +31,6 @@ workflowschedule:
   responseTime: "*/30 * * * *"  
   staticSite: "*/30 * * * *"  
   summary: "*/30 * * * *"
-  updateTemplate: "0 */6 * * *"
-  updates: "0 */6 * * *"
+  updateTemplate: "*/30 * * * *"
+  updates: "*/30 * * * *"
 
